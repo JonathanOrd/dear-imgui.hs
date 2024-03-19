@@ -10,6 +10,8 @@ This project contains Haskell bindings to the
 put together graphical user interfaces in Haskell, with a particular focus to
 games and graphics intensive applications.
 
+This has been updated to use the DearImGui Docking branch.
+
 # Getting Started
 
 To get started, we'll build the following:
